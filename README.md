@@ -4,7 +4,7 @@
 ### First to handle with PHP you must Download Xampp server from this link:
 ## https://www.apachefriends.org/download.html 
 ## After setup you should click on start Apache and MySql Xampp
-![1](https://user-images.githubusercontent.com/108132445/184068549-d7c6677b-488e-4e5a-b997-b5a69bf2330a.PNG)
+![Xampp](https://user-images.githubusercontent.com/108132445/184069003-7fa1d377-de8b-4910-8ab9-be7ae5efcfb3.PNG)
 
 ### Then you wil save your project in this path C:\xampp\htdocs To open you HTML page you should go to browser then write: http://localhost/index.html
 
