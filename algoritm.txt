@@ -1,0 +1,3 @@
+how to link web page with motor?
+1. use web serial API in my web pages
+2. use arduino IDE to to control action of motor based on web page command
