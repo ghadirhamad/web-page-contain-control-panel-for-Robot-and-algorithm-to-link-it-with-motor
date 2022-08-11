@@ -1,4 +1,4 @@
-# web-page-contain-control-panel-for-Rpbot-and-algorithm-to-link-it-with-motor
+# web-page-contain-control-panel-for-Robot-and-algorithm-to-link-it-with-motor
 # In this project I used HTML and PHP code to done this task
 
 ### First to handle with PHP you must Download Xampp server from this link:
