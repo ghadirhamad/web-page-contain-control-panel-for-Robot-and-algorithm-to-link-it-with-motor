@@ -26,3 +26,4 @@
 ## to see your history of clicked buttons you will click on MYSQL > Admin in xampp srever then you will choose your DB then your table:
 ![1](https://user-images.githubusercontent.com/108132445/184068437-6731a4a5-ae1c-410b-b8c3-c637a5a278df.PNG)
 
+### In algorithm.txt I write algorithm to link this web page with motor
